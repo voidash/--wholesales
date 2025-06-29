@@ -1,0 +1,14 @@
+<svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text {
+      font-family: 'Noto Sans Devanagari', sans-serif;
+      font-size: 30px;
+      fill: var(--logo-text-color);
+    }
+    .logo-leaf {
+      fill: var(--primary-color);
+    }
+  </style>
+  <path class="logo-leaf" d="M35 0C20 5 10 15 0 30 15 25 25 20 40 15 38 10 36 5 35 0z" transform="translate(5, 10)"/>
+  <text x="50" y="35" class="logo-text">थोक सेवा</text>
+</svg>
